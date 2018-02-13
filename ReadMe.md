@@ -1,5 +1,5 @@
 # UD120 Person Of Interest identifier
-One Paragraph of project description goes here
+This project consists of finding an algorithm to flag individuals as being a potential Person Of Interest (POI) in the Enron fraud of the late 1990s to early 2000s.  The project is based around a dataset drawn from the Enron financial scandal investigation, including a corpus of emails, pay and incentive information, and a flag for each individual indicating if they were a POI in the Enron investigation.
 
 ## Getting Started
 
